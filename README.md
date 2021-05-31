@@ -1,5 +1,6 @@
-# Base Project to work with VS2019 .Net5.0 and Postgresql [Readme español](https://github.com/martintamay/BasePostgresqlDotNetApp/blob/main/README.es.md)
+# Base Project to work with VS2019 .Net5.0 and Postgresql 
 This project has just the basic configuration to connect to postgresql from .Net5.0
+[Readme español](https://github.com/martintamay/BasePostgresqlDotNetApp/blob/main/README.es.md)
 
 # To start
 Change your connection string and remove the example model, DTO and controller (do not forget to remove the model from the context)
