@@ -6,10 +6,10 @@ Change yout connection string and remove the example model, DTO and controller (
 Cambia tu connection string y elimina los modelos, dto y controller de ejemplo que trae el proyecto (no te olvides de remover el modelo del contexto)
 
 # Como cambiar el connection string
-Edita el connection string en "Default connection" en [appsetings.json](https://addlink)
+Edita el connection string en "Default connection" en [appsetings.json](https://github.com/martintamay/BasePostgresqlDotNetApp/blob/main/appsettings.json)
 
 # Como renombrar el proyecto
-Para renombrar la solución sigue los siguientes pasos ([fuente (ve a dar a Contango un upvote ;) )](https://stackoverflow.com/questions/2043618/proper-way-to-rename-solution-and-directories-in-visual-studio))
+Para renombrar la solución sigue los siguientes pasos ([fuente](https://stackoverflow.com/questions/2043618/proper-way-to-rename-solution-and-directories-in-visual-studio)(ve a dar a Contango un upvote ;) ))
 1. Cierra tu Visual Studio.
 2. Imagina que quieres remobrar el proyecto de BasePostgresqlDotNetApp a Proyecto1.
 3. Renombra la carpeta de BasePostgresqlDotNetApp a Proyecto1 en tu explorador de archivos

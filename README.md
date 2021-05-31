@@ -5,10 +5,10 @@ This project has just the basic configuration to connect to postgresql from .Net
 Change your connection string and remove the example model, DTO and controller (do not forget to remove the model from the context)
 
 # How to change the connection string
-Edit connection chain "DefaultConnection" in [appsetings.json](https://addlink)
+Edit connection chain "DefaultConnection" in [appsetings.json](https://github.com/martintamay/BasePostgresqlDotNetApp/blob/main/appsettings.json)
 
 # How to rename the project 
-To rename the solution follow the next steps ([source (go give Contango an upvote ;) )](https://stackoverflow.com/questions/2043618/proper-way-to-rename-solution-and-directories-in-visual-studio))
+To rename the solution follow the next steps ([source](https://stackoverflow.com/questions/2043618/proper-way-to-rename-solution-and-directories-in-visual-studio)(go give Contango an upvote ;) ))
 1. Close Visual Studio.
 2. Imagine you want to rename from BasePostgresqlDotNetApp to Project1.
 3. Rename the folder from BasePostgresqlDotNetApp to Project1 using Windows Explorer.
